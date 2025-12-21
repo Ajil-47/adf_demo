@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVault_bronze_stroage",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://wf-47-key.vault.azure.net/"
+		}
+	}
+}
